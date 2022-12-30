@@ -1,7 +1,7 @@
 # Vision_Attendence_System
 We have created a Vision Based Attendence Sysytem which can register the user just by recognizing the face of the user.In this Project we have used MTCNN as Face detection Algorithm for detecting the face of the user and ArcFace as Face Recognition Algorithm ffor recognizing the face of the user. 
 
-##Requirements:
+## Requirements:
 1.Image data
 
 2.Face Detetction Algo: MTCNN
@@ -10,7 +10,7 @@ We have created a Vision Based Attendence Sysytem which can register the user ju
 
 4.Desktop Application Building: Tkinter
 
-##Technology Stack:
+## Technology Stack:
 1.Programming Languages: python 3.6
 
 2.Deep Learning Framework: MXNET , Keras
